@@ -1,0 +1,128 @@
+Uri: https://api.now.gg/
+File Name: C:\Downloaded Web Sites\now.gg\index.htm
+Content Type: application/json
+
+Uri: https://cdn.now.gg/apps-content/com.roblox.client/pwa/Icon_192.png
+File Name: C:\Downloaded Web Sites\now.gg\apps-content\com.roblox.client\pwa\Icon_192.png
+Content Type: image/png
+
+Uri: https://dn0qt3r0xannq.cloudfront.net/nowgg-IZQznjkQaj/audio/prebid-load.js
+File Name: C:\Downloaded Web Sites\now.gg\nowgg-IZQznjkQaj\audio\prebid-load.js
+Content Type: application/javascript
+
+Uri: https://dn0qt3r0xannq.cloudfront.net/nowgg-IZQznjkQaj/display/prebid-load.js
+File Name: C:\Downloaded Web Sites\now.gg\nowgg-IZQznjkQaj\display\prebid-load.js
+Content Type: application/javascript
+
+Uri: https://dn0qt3r0xannq.cloudfront.net/nowgg-IZQznjkQaj/video/prebid-load.js
+File Name: C:\Downloaded Web Sites\now.gg\nowgg-IZQznjkQaj\video\prebid-load.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap
+File Name: C:\Downloaded Web Sites\now.gg\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Baloo:300,400,500,600,700&display=swap
+File Name: C:\Downloaded Web Sites\now.gg\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700&display=swap
+File Name: C:\Downloaded Web Sites\now.gg\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/baloo/v13/6xKhdSpJJ92I9MWPCms.ttf
+File Name: C:\Downloaded Web Sites\now.gg\s\baloo\v13\6xKhdSpJJ92I9MWPCms.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\now.gg\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\now.gg\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\now.gg\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\now.gg\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\now.gg\s\poppins\v20\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9vAw.ttf
+File Name: C:\Downloaded Web Sites\now.gg\s\roboto\v30\KFOlCnqEu92Fr1MmEU9vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Me5Q.ttf
+File Name: C:\Downloaded Web Sites\now.gg\s\roboto\v30\KFOmCnqEu92Fr1Me5Q.ttf
+Content Type: font/ttf
+
+Uri: https://now.gg/play/app.5e0e7bc1.js
+File Name: C:\Downloaded Web Sites\now.gg\play\app.5e0e7bc1.js
+Content Type: application/javascript
+
+Uri: https://now.gg/play/app.bf5c5da8.css
+File Name: C:\Downloaded Web Sites\now.gg\play\app.bf5c5da8.css
+Content Type: text/css
+
+Uri: https://now.gg/play/images/bulbIcon.svg
+File Name: C:\Downloaded Web Sites\now.gg\play\images\bulbIcon.svg
+Content Type: image/svg+xml
+
+Uri: https://now.gg/play/images/close-icon.svg
+File Name: C:\Downloaded Web Sites\now.gg\play\images\close-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://now.gg/play/images/infoIcon.svg
+File Name: C:\Downloaded Web Sites\now.gg\play\images\infoIcon.svg
+Content Type: image/svg+xml
+
+Uri: https://now.gg/play/images/loader.svg
+File Name: C:\Downloaded Web Sites\now.gg\play\images\loader.svg
+Content Type: image/svg+xml
+
+Uri: https://now.gg/play/images/logo-1-a.png
+File Name: C:\Downloaded Web Sites\now.gg\play\images\logo-1-a.png
+Content Type: image/png
+
+Uri: https://now.gg/play/images/nowggdesktopLogo.png
+File Name: C:\Downloaded Web Sites\now.gg\play\images\nowggdesktopLogo.png
+Content Type: image/png
+
+Uri: https://now.gg/play/images/playImg.svg
+File Name: C:\Downloaded Web Sites\now.gg\play\images\playImg.svg
+Content Type: image/svg+xml
+
+Uri: https://now.gg/play/images/roundLoader.svg
+File Name: C:\Downloaded Web Sites\now.gg\play\images\roundLoader.svg
+Content Type: image/svg+xml
+
+Uri: https://now.gg/play/images/Shapes.svg
+File Name: C:\Downloaded Web Sites\now.gg\play\images\Shapes.svg
+Content Type: image/svg+xml
+
+Uri: https://now.gg/play/roblox-corporation/5349/roblox
+File Name: C:\Downloaded Web Sites\now.gg\play\roblox-corporation\5349\roblox.html
+Content Type: text/html
+
+Uri: https://now.gg/play/vendors~app.6f4aace5.chunk.css
+File Name: C:\Downloaded Web Sites\now.gg\play\vendors~app.6f4aace5.chunk.css
+Content Type: text/css
+
+Uri: https://now.gg/play/vendors~app.e5c2b35f.chunk.js
+File Name: C:\Downloaded Web Sites\now.gg\play\vendors~app.e5c2b35f.chunk.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtm.js?id=GTM-PRM8BWR
+File Name: C:\Downloaded Web Sites\now.gg\gtm.js
+Content Type: application/javascript
+
+Uri: https://www.googletagservices.com/tag/js/gpt.js
+File Name: C:\Downloaded Web Sites\now.gg\tag\js\gpt.js
+Content Type: text/javascript
+
