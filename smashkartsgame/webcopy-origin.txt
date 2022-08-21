@@ -1,0 +1,96 @@
+Uri: https://cdn.onesignal.com/sdks/OneSignalSDK.js
+File Name: C:\Downloaded Web Sites\smashkarts.io\sdks\OneSignalSDK.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Baloo+2:wght@600&display=swap
+File Name: C:\Downloaded Web Sites\smashkarts.io\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/baloo2/v14/wXK0E3kTposypRydzVT08TS3JnAmtdjEyqpv.ttf
+File Name: C:\Downloaded Web Sites\smashkarts.io\s\baloo2\v14\wXK0E3kTposypRydzVT08TS3JnAmtdjEyqpv.ttf
+Content Type: font/ttf
+
+Uri: https://smashkarts.io/
+File Name: C:\Downloaded Web Sites\smashkarts.io\index.htm
+Content Type: text/html
+
+Uri: https://smashkarts.io/images/favicon.png
+File Name: C:\Downloaded Web Sites\smashkarts.io\images\favicon.png
+Content Type: image/png
+
+Uri: https://smashkarts.io/images/icon-144.png
+File Name: C:\Downloaded Web Sites\smashkarts.io\images\icon-144.png
+Content Type: image/png
+
+Uri: https://smashkarts.io/images/menuBGTile.png
+File Name: C:\Downloaded Web Sites\smashkarts.io\images\menuBGTile.png
+Content Type: image/png
+
+Uri: https://smashkarts.io/images/overlay.png
+File Name: C:\Downloaded Web Sites\smashkarts.io\images\overlay.png
+Content Type: image/png
+
+Uri: https://smashkarts.io/images/r.png
+File Name: C:\Downloaded Web Sites\smashkarts.io\images\r.png
+Content Type: image/png
+
+Uri: https://smashkarts.io/images/smashkarts.png
+File Name: C:\Downloaded Web Sites\smashkarts.io\images\smashkarts.png
+Content Type: image/png
+
+Uri: https://smashkarts.io/images/turnoffadblock.png
+File Name: C:\Downloaded Web Sites\smashkarts.io\images\turnoffadblock.png
+Content Type: image/png
+
+Uri: https://smashkarts.io/manifest.json
+File Name: C:\Downloaded Web Sites\smashkarts.io\manifest.json
+Content Type: application/json
+
+Uri: https://smashkarts.io/scripts/auth-v3.js
+File Name: C:\Downloaded Web Sites\smashkarts.io\scripts\auth-v3.js
+Content Type: text/javascript
+
+Uri: https://smashkarts.io/scripts/main-v2.js
+File Name: C:\Downloaded Web Sites\smashkarts.io\scripts\main-v2.js
+Content Type: text/javascript
+
+Uri: https://smashkarts.io/scripts/peel1.js
+File Name: C:\Downloaded Web Sites\smashkarts.io\scripts\peel1.js
+Content Type: text/javascript
+
+Uri: https://smashkarts.io/xmlhttprequest-length-computable.min.js
+File Name: C:\Downloaded Web Sites\smashkarts.io\xmlhttprequest-length-computable.min.js
+Content Type: text/javascript
+
+Uri: https://www.googleoptimize.com/optimize.js?id=OPT-W8QW63G
+File Name: C:\Downloaded Web Sites\smashkarts.io\optimize.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-Z574SSVGGZ
+File Name: C:\Downloaded Web Sites\smashkarts.io\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.gstatic.com/firebasejs/8.6.2/firebase-analytics.js
+File Name: C:\Downloaded Web Sites\smashkarts.io\firebasejs\8.6.2\firebase-analytics.js
+Content Type: text/javascript
+
+Uri: https://www.gstatic.com/firebasejs/8.6.2/firebase-app.js
+File Name: C:\Downloaded Web Sites\smashkarts.io\firebasejs\8.6.2\firebase-app.js
+Content Type: text/javascript
+
+Uri: https://www.gstatic.com/firebasejs/8.6.2/firebase-auth.js
+File Name: C:\Downloaded Web Sites\smashkarts.io\firebasejs\8.6.2\firebase-auth.js
+Content Type: text/javascript
+
+Uri: https://www.gstatic.com/firebasejs/8.6.2/firebase-database.js
+File Name: C:\Downloaded Web Sites\smashkarts.io\firebasejs\8.6.2\firebase-database.js
+Content Type: text/javascript
+
+Uri: https://www.gstatic.com/firebasejs/8.6.2/firebase-functions.js
+File Name: C:\Downloaded Web Sites\smashkarts.io\firebasejs\8.6.2\firebase-functions.js
+Content Type: text/javascript
+
+Uri: https://www.gstatic.com/firebasejs/8.6.2/firebase-performance.js
+File Name: C:\Downloaded Web Sites\smashkarts.io\firebasejs\8.6.2\firebase-performance.js
+Content Type: text/javascript
+

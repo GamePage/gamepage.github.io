@@ -1,0 +1,7 @@
+﻿@font-face {
+  font-family: 'Baloo 2';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/baloo2/v14/wXK0E3kTposypRydzVT08TS3JnAmtdjEyqpv.ttf) format('truetype');
+}
