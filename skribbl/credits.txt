@@ -1,0 +1,2 @@
+Sound(s):
+  "tick.wav" sampled from "Ticking Clock, A.wav" by InspectorJ of Freesound.org (https://www.freesound.org/people/InspectorJ/sounds/343130)

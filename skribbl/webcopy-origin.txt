@@ -1,0 +1,176 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\skribbl.io\ajax\libs\jquery\3.1.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js
+File Name: C:\Downloaded Web Sites\skribbl.io\ajax\libs\jqueryui\1.12.1\jquery-ui.min.js
+Content Type: text/javascript
+
+Uri: https://api.adinplay.com/libs/aiptag/pub/SKR/skribbl.io/tag.min.js
+File Name: C:\Downloaded Web Sites\skribbl.io\libs\aiptag\pub\SKR\skribbl.io\tag.min.js
+Content Type: application/javascript
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\skribbl.io\bootstrap\3.3.7\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Downloaded Web Sites\skribbl.io\bootstrap\3.3.7\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Downloaded Web Sites\skribbl.io\bootstrap\3.3.7\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Downloaded Web Sites\skribbl.io\bootstrap\3.3.7\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Downloaded Web Sites\skribbl.io\bootstrap\3.3.7\fonts\glyphicons-halflings-regular.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Downloaded Web Sites\skribbl.io\bootstrap\3.3.7\fonts\glyphicons-halflings-regular.woff
+Content Type: font/woff
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Downloaded Web Sites\skribbl.io\bootstrap\3.3.7\fonts\glyphicons-halflings-regular.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\skribbl.io\bootstrap\3.3.7\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://skribbl.io/
+File Name: C:\Downloaded Web Sites\skribbl.io\index.htm
+Content Type: text/html
+
+Uri: https://skribbl.io/credits.txt
+File Name: C:\Downloaded Web Sites\skribbl.io\credits.txt
+Content Type: text/plain
+
+Uri: https://skribbl.io/js/game.js
+File Name: C:\Downloaded Web Sites\skribbl.io\js\game.js
+Content Type: application/javascript
+
+Uri: https://skribbl.io/res/arrow.gif
+File Name: C:\Downloaded Web Sites\skribbl.io\res\arrow.gif
+Content Type: image/gif
+
+Uri: https://skribbl.io/res/audio.gif
+File Name: C:\Downloaded Web Sites\skribbl.io\res\audio.gif
+Content Type: image/gif
+
+Uri: https://skribbl.io/res/avatar/color_atlas.gif
+File Name: C:\Downloaded Web Sites\skribbl.io\res\avatar\color_atlas.gif
+Content Type: image/gif
+
+Uri: https://skribbl.io/res/avatar/eyes_atlas.gif
+File Name: C:\Downloaded Web Sites\skribbl.io\res\avatar\eyes_atlas.gif
+Content Type: image/gif
+
+Uri: https://skribbl.io/res/avatar/mouth_atlas.gif
+File Name: C:\Downloaded Web Sites\skribbl.io\res\avatar\mouth_atlas.gif
+Content Type: image/gif
+
+Uri: https://skribbl.io/res/avatar/special_atlas.gif
+File Name: C:\Downloaded Web Sites\skribbl.io\res\avatar\special_atlas.gif
+Content Type: image/gif
+
+Uri: https://skribbl.io/res/background.png
+File Name: C:\Downloaded Web Sites\skribbl.io\res\background.png
+Content Type: image/png
+
+Uri: https://skribbl.io/res/book.gif
+File Name: C:\Downloaded Web Sites\skribbl.io\res\book.gif
+Content Type: image/gif
+
+Uri: https://skribbl.io/res/clear.gif
+File Name: C:\Downloaded Web Sites\skribbl.io\res\clear.gif
+Content Type: image/gif
+
+Uri: https://skribbl.io/res/clock.gif
+File Name: C:\Downloaded Web Sites\skribbl.io\res\clock.gif
+Content Type: image/gif
+
+Uri: https://skribbl.io/res/crown.gif
+File Name: C:\Downloaded Web Sites\skribbl.io\res\crown.gif
+Content Type: image/gif
+
+Uri: https://skribbl.io/res/exit.gif
+File Name: C:\Downloaded Web Sites\skribbl.io\res\exit.gif
+Content Type: image/gif
+
+Uri: https://skribbl.io/res/favicon.png
+File Name: C:\Downloaded Web Sites\skribbl.io\res\favicon.png
+Content Type: image/png
+
+Uri: https://skribbl.io/res/filltool.gif
+File Name: C:\Downloaded Web Sites\skribbl.io\res\filltool.gif
+Content Type: image/gif
+
+Uri: https://skribbl.io/res/fill_graphic.png
+File Name: C:\Downloaded Web Sites\skribbl.io\res\fill_graphic.png
+Content Type: image/png
+
+Uri: https://skribbl.io/res/load.gif
+File Name: C:\Downloaded Web Sites\skribbl.io\res\load.gif
+Content Type: image/gif
+
+Uri: https://skribbl.io/res/logo.gif
+File Name: C:\Downloaded Web Sites\skribbl.io\res\logo.gif
+Content Type: image/gif
+
+Uri: https://skribbl.io/res/pen.gif
+File Name: C:\Downloaded Web Sites\skribbl.io\res\pen.gif
+Content Type: image/gif
+
+Uri: https://skribbl.io/res/pen_graphic.png
+File Name: C:\Downloaded Web Sites\skribbl.io\res\pen_graphic.png
+Content Type: image/png
+
+Uri: https://skribbl.io/res/questionmark.gif
+File Name: C:\Downloaded Web Sites\skribbl.io\res\questionmark.gif
+Content Type: image/gif
+
+Uri: https://skribbl.io/res/randomize.gif
+File Name: C:\Downloaded Web Sites\skribbl.io\res\randomize.gif
+Content Type: image/gif
+
+Uri: https://skribbl.io/res/rubber.gif
+File Name: C:\Downloaded Web Sites\skribbl.io\res\rubber.gif
+Content Type: image/gif
+
+Uri: https://skribbl.io/res/rubber_graphic.png
+File Name: C:\Downloaded Web Sites\skribbl.io\res\rubber_graphic.png
+Content Type: image/png
+
+Uri: https://skribbl.io/res/settings.gif
+File Name: C:\Downloaded Web Sites\skribbl.io\res\settings.gif
+Content Type: image/gif
+
+Uri: https://skribbl.io/res/social/twitter.png
+File Name: C:\Downloaded Web Sites\skribbl.io\res\social\twitter.png
+Content Type: image/png
+
+Uri: https://skribbl.io/res/style.css
+File Name: C:\Downloaded Web Sites\skribbl.io\res\style.css
+Content Type: text/css
+
+Uri: https://skribbl.io/res/thumbsdown.gif
+File Name: C:\Downloaded Web Sites\skribbl.io\res\thumbsdown.gif
+Content Type: image/gif
+
+Uri: https://skribbl.io/res/thumbsup.gif
+File Name: C:\Downloaded Web Sites\skribbl.io\res\thumbsup.gif
+Content Type: image/gif
+
+Uri: https://skribbl.io/terms
+File Name: C:\Downloaded Web Sites\skribbl.io\terms.html
+Content Type: text/html
+
+Uri: https://www.google.com/recaptcha/api.js?render=6LeFbcgUAAAAAHQcfuuaFjakmubtKjKCmYM5cbIJ
+File Name: C:\Downloaded Web Sites\skribbl.io\recaptcha\api.js
+Content Type: text/javascript
+
